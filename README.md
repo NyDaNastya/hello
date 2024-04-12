@@ -47,5 +47,7 @@
 - Своевременное информирование родителей об успеваемости и посещаемости их детей.
 - Контроль выполнения образовательных программ.
 ## Как выглядит?
+#### Успеваемость ученика
 ![Image alt](https://github.com/NyDaNastya/hello/blob/main/image.png%20з.png)
-![Image alt](https://github.com/NyDaNastya/hello/blob/main/image.png%20з.png)
+#### Расписание заданий на неделю
+![Image alt](https://github.com/NyDaNastya/hello/blob/main/image.png%20л.png)
