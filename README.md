@@ -48,3 +48,4 @@
 - Контроль выполнения образовательных программ.
 ## Как выглядит?
 ![Image alt](https://github.com/NyDaNastya/hello/blob/main/image.png%20з.png)
+![Image alt](https://github.com/NyDaNastya/hello/blob/main/image.png%20з.png)
